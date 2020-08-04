@@ -7,7 +7,7 @@ print("你的名字是：")
 print(name)
 os.system("pause")
 print("请一定输入数字！否则系统将出现问题！")
-num = int(input("请输入：1+1="))
+num = input("请输入：1+1=")
 if(num>0):
 	if(num>2):
 		print("大了哦")
