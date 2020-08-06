@@ -10,10 +10,3 @@ When downloading the first two combinations, please do not be clever and delete 
 
 If you do not have Python installed, you can download the exe version of these files. They have been published in the <a href="https://github.com/jonathanqwq/Original-exe-file" target="_blank" class="m">original EXE file</a>
 
-下载Original-exe-file后您可以打开任意文件夹，点击其中的exe文件。
-
-After downloading the original EXE file, you can open any folder and click the EXE file.
-
-Original-exe-file中的文件和本储存库中的文件稍有偏差，但是不影响使用。
-
-The file in the original EXE file is slightly different from the file in this repository, but it does not affect the use.
